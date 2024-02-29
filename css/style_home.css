@@ -1,0 +1,22 @@
+h1{
+	font-weight:bold;
+	text-transform:capitalize;
+	letter-spacing:2px;
+	word-spacing:2px;
+	font-family:Perpetua Titling MT;
+	color:#000000;
+	text-shadow: 2px 2px 5px LightSlateGrey;
+}
+body{
+	background-image:url('../images/welcome.jpeg');
+	background-position:top right;
+	background-repeat:no-repeat;
+	background-color:#9FE2BF;
+	margin:1cm 5cm 1cm 1cm;
+}
+
+@font-face {
+  font-family: hoppin;
+  src: url('hoppin.ttf');
+}
+
